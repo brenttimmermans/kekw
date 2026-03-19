@@ -1,5 +1,3 @@
 # kekw
 
-kekw
-
-<img src="screenshot.png" alt="A screenshot of the kekw website" />
+<img src="screenshot.jpeg" alt="A screenshot of the project" />
