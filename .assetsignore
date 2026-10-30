@@ -1,0 +1,5 @@
+# The site is the repo root: serve only the page and its assets.
+*
+!index.html
+!kekw.png
+!favicon.ico
